@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1622433228 source:c:\users\hugo gomes\desktop\naacademiabar laed2\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"clientes.h"
+	"outras_funcoes.h"
+	"produtos.h"
+
+1622430836 c:\users\hugo gomes\desktop\naacademiabar laed2\clientes.h
+	"produtos.h"
+
+1622430836 c:\users\hugo gomes\desktop\naacademiabar laed2\produtos.h
+
+1622430836 c:\users\hugo gomes\desktop\naacademiabar laed2\outras_funcoes.h
+
+1622430835 source:c:\users\hugo gomes\desktop\naacademiabar laed2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<locale.h>
+	"menus.h"
+
+1622430836 c:\users\hugo gomes\desktop\naacademiabar laed2\menus.h
+	"clientes.h"
+	"produtos.h"
+
+1622432295 source:c:\users\hugo gomes\desktop\naacademiabar laed2\menus.c
+	<stdio.h>
+	<stdlib.h>
+	"outras_funcoes.h"
+	"clientes.h"
+	"menus.h"
+	"produtos.h"
+
+1622430836 source:c:\users\hugo gomes\desktop\naacademiabar laed2\outras_funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/stat.h>
+	"clientes.h"
+	<unistd.h>
+	<windows.h>
+
+1622430836 source:c:\users\hugo gomes\desktop\naacademiabar laed2\produtos.c
+	<stdio.h>
+	<stdlib.h>
+	"produtos.h"
+	"outras_funcoes.h"
+
